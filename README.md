@@ -1,4 +1,6 @@
 ## Hi there 👋
+## 🌱 I’m currently learning at University of the Philippines Open University.
+## 🔭 I’m currently working on my Student Developer Package. Hope it would be approved.
 
 <!--
 **jhad-edu/jhad-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
